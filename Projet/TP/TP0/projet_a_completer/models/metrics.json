@@ -1,0 +1,36 @@
+{
+  "main_metric": "mae",
+  "best": "regression_lineaire",
+  "results": {
+    "baseline": {
+      "mae": 70.271,
+      "rmse": 88.416,
+      "r2": -0.151
+    },
+    "regression_lineaire": {
+      "mae": 22.239,
+      "rmse": 28.17,
+      "r2": 0.883
+    },
+    "ridge": {
+      "mae": 22.623,
+      "rmse": 28.545,
+      "r2": 0.88
+    },
+    "knn": {
+      "mae": 38.441,
+      "rmse": 48.229,
+      "r2": 0.657
+    },
+    "random_forest": {
+      "mae": 31.825,
+      "rmse": 41.647,
+      "r2": 0.745
+    },
+    "gradient_boosting": {
+      "mae": 39.015,
+      "rmse": 51.049,
+      "r2": 0.616
+    }
+  }
+}
