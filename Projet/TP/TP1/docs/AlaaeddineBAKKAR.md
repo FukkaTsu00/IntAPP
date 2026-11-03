@@ -116,12 +116,12 @@ Dans `/docs`, où voit-on les bornes que vous avez choisies ?
    - `maintai.api.main` : le fichier `maintai/api/main.py`, écrit en notation de module Python (des points à la place des `/`, sans `.py`).
    - `app` : la variable de ce fichier qui contient l'application, créée par `app = FastAPI(...)`. C'est elle qu'uvicorn fait tourner.
 
+
 ## 7. Le rendu Git
 
-- Lien de la pull request : [À COMPLÉTER : https://github.com/compte/depot/pull/numéro]
-- Le tag `tp1` existe sur GitHub : [À COMPLÉTER : oui, après `git push --tags`]
-- Qui a relu la pull request, et quel commentaire a-t-il laissé ?
-  [À COMPLÉTER : nom du relecteur et son commentaire réel]
+- Dépôt : https://github.com/FukkaTsu00/IntAPP
+- Rendu poussé directement sur la branche `main`, dans `Projet/TP/TP1` (pas de pull request ni de tag pour ce TP).
+- Relecture : aucune pour l'instant.
 
 ## 8. Ce qui reste flou
 

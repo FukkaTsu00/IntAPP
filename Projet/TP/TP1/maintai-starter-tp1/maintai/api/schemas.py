@@ -19,7 +19,6 @@ class SensorReading(BaseModel):
     vibration_mm_s: float = Field(ge=0, le=50, description="Vitesse de vibration efficace (mm/s)")
     load_pct: float = Field(ge=0, le=150, description="Charge du moteur en % de la charge nominale")
     runtime_hours: float = Field(ge=0, le=200_000, description="Heures de fonctionnement cumulées (h)")
-    pass
 
 
 class PredictionOut(BaseModel):

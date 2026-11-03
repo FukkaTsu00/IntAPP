@@ -1,4 +1,5 @@
 import pytest
+
 HEADERS = {"X-API-Key": "test-key"} # la clé des tests (conftest.py) ; inutile en TP1, nécessaire en TP2
 VALID = {"temperature_c": 60.0, "vibration_mm_s": 2.0, "load_pct": 50.0, "runtime_hours": 5000}
 
