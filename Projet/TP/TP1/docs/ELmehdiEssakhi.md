@@ -162,9 +162,8 @@ REST est un style architectural qui définit des principes pour concevoir des AP
 
 ## 7. Le rendu Git
 
-- **Lien de la pull request :** à compléter.
-- **Le tag `tp1` existe sur GitHub :** à vérifier.
-- **Qui a relu la pull request et quel commentaire a-t-il laissé ?** à compléter.
+- **Lien de la pull request : https://github.com/FukkaTsu00/IntAPP
+
 
 ---
 
